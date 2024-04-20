@@ -20,7 +20,7 @@
                 android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/thirst_part"
+                android:text="@string/app_name"
                 android:textAlignment="center"
                 android:textSize="25sp"
                 android:textStyle="bold"
@@ -30,7 +30,7 @@
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/second_part"
+                android:text="@string/app_name"
                 android:textAlignment="center"
                 android:textSize="16sp"
                 android:layout_marginTop="15dp"/>
@@ -39,14 +39,14 @@
                 android:id="@+id/imageView2"
                 android:layout_width="400dp"
                 android:layout_height="400dp"
-                android:src="@drawable/service"
+                android:src="@drawable/ic_launcher_background"
                 android:layout_marginTop="15dp"/>
 
             <TextView
                 android:id="@+id/textView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/thirst_two"
+                android:text="@string/app_name"
                 android:textAlignment="center"
                 android:textSize="25sp"
                 android:textStyle="bold"
@@ -56,7 +56,7 @@
                 android:id="@+id/textView6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/second_two"
+                android:text="@string/app_name"
                 android:textAlignment="center"
                 android:textSize="16sp"
                 android:layout_marginTop="15dp"/>
@@ -65,7 +65,7 @@
                 android:id="@+id/imageView3"
                 android:layout_width="400dp"
                 android:layout_height="400dp"
-                android:src="@drawable/whychooseus"
+                android:src="@drawable/ic_launcher_background"
                 android:layout_marginTop="15dp"/>
 
         </LinearLayout>
